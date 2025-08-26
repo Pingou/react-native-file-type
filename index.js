@@ -1,4 +1,4 @@
-import RNFS from "react-native-fs";
+import * as RNFS from '@dr.pogodin/react-native-fs';
 import { Base64 } from "js-base64";
 import fileType from "file-type";
 

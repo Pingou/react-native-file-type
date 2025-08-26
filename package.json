@@ -12,7 +12,7 @@
     "url": "https://github.com/prscX/react-native-file-type.git"
   },
   "peerDependencies": {
-    "react-native-fs": "x"
+    "@dr.pogodin/react-native-fs": "^2.35.1"
   },
   "dependencies": {
     "buffer": "5.0.8",
